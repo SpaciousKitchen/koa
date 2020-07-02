@@ -1,0 +1,19 @@
+{
+  "name": "compression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "2.13.0",
+    "koa-compress": "^4.0.1",
+    "koa-convert": "1.2.0",
+    "koa-pug": "^4.0.4",
+    "koa-router": "9.1.0"
+  }
+}
